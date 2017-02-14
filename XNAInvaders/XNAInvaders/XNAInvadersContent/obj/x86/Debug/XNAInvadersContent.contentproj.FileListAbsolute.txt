@@ -1,0 +1,2 @@
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvadersContent\obj\x86\Debug\XNAInvadersContent.contentprojResolveAssemblyReference.cache
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvadersContent\obj\x86\Debug\XNAInvadersContent.contentprojResolveAssemblyReference.cache
