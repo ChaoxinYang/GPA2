@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNAInvaders", "XNAInvaders\XNAInvaders\XNAInvaders.csproj", "{82D0B6FB-5935-4BD9-9CDD-1AE2A407CBAD}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "XNAInvadersContent", "XNAInvaders\XNAInvadersContent\XNAInvadersContent.contentproj", "{E66F620B-0692-4A17-9E09-56CF452487A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82D0B6FB-5935-4BD9-9CDD-1AE2A407CBAD}.Debug|x86.ActiveCfg = Debug|x86
+		{82D0B6FB-5935-4BD9-9CDD-1AE2A407CBAD}.Debug|x86.Build.0 = Debug|x86
+		{82D0B6FB-5935-4BD9-9CDD-1AE2A407CBAD}.Release|x86.ActiveCfg = Release|x86
+		{82D0B6FB-5935-4BD9-9CDD-1AE2A407CBAD}.Release|x86.Build.0 = Release|x86
+		{E66F620B-0692-4A17-9E09-56CF452487A3}.Debug|x86.ActiveCfg = Debug|x86
+		{E66F620B-0692-4A17-9E09-56CF452487A3}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
