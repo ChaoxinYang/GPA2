@@ -13,10 +13,10 @@ namespace XNAInvaders
 
 
         public Vector2 position;
-        public Vector2 velocity;
         public Texture2D texture;
         int width= Global.width /4;
-        int height = Global.height/3;
+        int height = Global.height-200;
+       
 
         public shield()
         {
@@ -25,16 +25,18 @@ namespace XNAInvaders
 
 
         }
-
+       
 
         public void Init ()
         {
 
-            position.X = width;
+            position.X = Global.Random(0, Global.width-100);
+
+
             position.Y = height;
 
 
-
+            
 
 
 

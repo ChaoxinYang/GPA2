@@ -70,7 +70,7 @@ namespace XNAInvaders
             position.Y = Global.Random(30, Global.height - 300);
 
             velocity.X = 3;
-            velocity.Y = 10;
+            velocity.Y = 50;
 
 
             

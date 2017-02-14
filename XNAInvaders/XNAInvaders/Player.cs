@@ -11,7 +11,7 @@ namespace XNAInvaders
         public Vector2 position;
         public Vector2 velocity;
         public Texture2D texture;
-      
+        
         public Player()
         {
             texture = Global.content.Load<Texture2D>("ship");

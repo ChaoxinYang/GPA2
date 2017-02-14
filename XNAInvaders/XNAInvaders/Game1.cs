@@ -22,7 +22,7 @@ namespace XNAInvaders
         Bullet theBullet;
         invaderShip newShip;
 
-
+        
         int hit = 3;
         int shieldHit = 3; 
         //TODO: Add multiple invaders here
@@ -133,7 +133,7 @@ namespace XNAInvaders
 
             }
 
-           
+           //ship
             if (overlaps(theBullet.position.X, theBullet.position.Y, theBullet.texture, newShip.position.X, newShip.position.Y, newShip.texture))
                 {
                     theBullet.Init();
@@ -146,13 +146,14 @@ namespace XNAInvaders
             {
                 newShip.Death();
             }
-        
-          for (int iShield = 0; iShield< 4; iShield++)
+
+            //shield
+            for (int iShield = 0; iShield < shields.Count; iShield++)
             {
                 shield newShield = shields[iShield];
-               
 
 
+             
                 if (overlaps(theBullet.position.X, theBullet.position.Y, theBullet.texture, newShield.position.X, newShield.position.Y, newShield.texture))
                 {
                     theBullet.Init();
@@ -161,18 +162,34 @@ namespace XNAInvaders
                     if (shieldHit <= 0)
                     {
 
-
                         shields.RemoveAt(iShield);
+
                         shieldHit = 3;
 
                     }
                 }
-                
-               
+                for (int iInvader = 0; iInvader < invaders.Count; iInvader++)
+                {
+                    Invader newInvader = invaders[iInvader];
+                    if (overlaps(newInvader.position.X, newInvader.position.Y, newInvader.texture, newShield.position.X, newShield.position.Y, newShield.texture))
+                {
+                    
 
+                        shieldHit -= 1;
+
+                        invaders.RemoveAt(iInvader);
+                        if (shieldHit <= 0)
+                        {
+
+                            shields.RemoveAt(iShield);
+
+                            shieldHit = 3;
+
+                        }
+                    }
+
+                }
             }
-
-
             base.Update(gameTime);
         }
 
@@ -196,7 +213,7 @@ namespace XNAInvaders
                 invaders[iInvader].Draw();
                 
             }
-            for (int iShield = 0; iShield < 4; iShield++)
+            for (int iShield = 0; iShield < shields.Count; iShield++)
             {
                 shields[iShield].Draw();
 
