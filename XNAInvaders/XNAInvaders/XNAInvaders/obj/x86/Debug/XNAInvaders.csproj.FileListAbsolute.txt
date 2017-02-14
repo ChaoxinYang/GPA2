@@ -1,0 +1,52 @@
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\background.xnb
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\blue_invader.xnb
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\bullet.xnb
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\enemy_ship.xnb
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\green_invader.xnb
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\red_invader.xnb
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\scanlines.xnb
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\shield.xnb
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\ship.xnb
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\yellow_invader.xnb
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\XNAInvaders.exe
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\XNAInvaders.pdb
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\obj\x86\Debug\XNAInvaders.csprojResolveAssemblyReference.cache
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\obj\x86\Debug\XNAInvaders.exe
+c:\users\chaoxin\documents\visual studio 2015\Projects\XNAInvaders\XNAInvaders\XNAInvaders\obj\x86\Debug\XNAInvaders.pdb
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\background.xnb
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\blue_invader.xnb
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\bullet.xnb
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\enemy_ship.xnb
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\green_invader.xnb
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\red_invader.xnb
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\scanlines.xnb
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\shield.xnb
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\ship.xnb
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Content\yellow_invader.xnb
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\XNAInvaders.exe
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\XNAInvaders.pdb
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\obj\x86\Debug\XNAInvaders.csprojResolveAssemblyReference.cache
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\obj\x86\Debug\XNAInvaders.exe
+C:\Users\chaoxin\Desktop\XNAInvaders\XNAInvaders\XNAInvaders\obj\x86\Debug\XNAInvaders.pdb
